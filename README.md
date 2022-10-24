@@ -4,6 +4,8 @@
 
 [>> Página de Inscrição do evento](https://inscricao.imersaoaws.com.br)
 
+``` Clonar a imagem de Docker Hub ``` => [https://hub.docker.com/r/edsonjorgef1/bia_imersao](https://hub.docker.com/r/edsonjorgef1/bia_imersao)
+$ docker pull edsonjorgef1/bia_imersao
 
 AULA 01: Configuração do Ambiente + Uso de Docker em nossa App
 
